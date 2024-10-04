@@ -1,0 +1,2 @@
+https://github.com/mcdominik/machine_learning/blob/master/yolov8-on-fire-colab/yolo8_on_fire.ipynb
+https://universe.roboflow.com
