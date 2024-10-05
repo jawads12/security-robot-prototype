@@ -1,0 +1,25 @@
+name: surveillance_bot
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  web_socket_channel: ^2.2.0
+  audioplayers: ^0.20.1  # Use the latest version from pub.dev
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets: 
+  - assets/f10537.jpg
+  - assets/robot.gif
+  - assets/fire.mp3
